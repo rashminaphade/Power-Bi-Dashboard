@@ -39,4 +39,11 @@ Attrition analysis by:
 *Ideal project for Data Analytics freshers.
 
 # Repository structure
-*Data : <
+*Data : "https://github.com/rashminaphade/Power-Bi-Dashboard/blob/main/HR_Analytics.csv"
+*Dashboard Image: "https://github.com/rashminaphade/Power-Bi-Dashboard/blob/main/HR%20Dashboard.png"
+
+# feedback & Collaboration : 
+Feedback and collaboration are welcome to improve insights, performance, and overall dashboard quality.
+
+# Screenshots 
+Show what the dashboard look like . Example: https://github.com/rashminaphade/Power-Bi-Dashboard/blob/main/HR%20Dashboard.png
